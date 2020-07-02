@@ -1,2 +1,8 @@
-# os-3-easy-pieces
-Personal reading of "Operating Systems in Three Easy Pieces
+# Operating Systems: Three Easy Pieces
+
+## Compile Scripts
+
+Mac GCC compiler
+```
+gcc <script>.c -o <binary> 
+```
