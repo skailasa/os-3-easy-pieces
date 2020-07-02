@@ -1,5 +1,2 @@
 // Ignore Binaries
-*
-!*.c
-!*.gitignore
-
+.*/build/*
