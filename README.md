@@ -1,6 +1,6 @@
-# Operating Systems: Three Easy Pieces
+# Operating Systems: Three Easy Pieces
 
-## Compile Scripts
+## Compile Scripts
 
 Mac GCC compiler
 ```
